@@ -1,5 +1,5 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "Documenting My CE Journey"
+author: "Bismaakram710"
 description: "My blog"
 permalink: /:title/
 lang: "en"
@@ -22,8 +22,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:bismaakram710@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/bismaakram710-crypto"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
