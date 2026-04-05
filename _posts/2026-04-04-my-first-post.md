@@ -1,22 +1,7 @@
----
-layout: post
-title: "My First Blog Post"
-date: 2026-04-04
----
 
- Welcome to My Blog 
 
-This is my first blog post on my Jekyll site.
 
- About Me
-I am a Computer Engineering student and this blog is about my journey.
-
-What I’ll Share
-- My studies
-- Projects
-- Tech learning
-
-Welcome to my first blog post! Today I want to share my experience with my first programming fundamentals project.
+ Today I want to share my experience with my first programming fundamentals project.
 TMDB Movies Project
 My first project was the TMDB Movies project. This was a great starting point for me as a Computer Engineering student. I worked on building a movie database application using the TMDB (The Movie Database) API. It was my first real experience applying programming fundamentals in a practical project.
 What I Learned From It
