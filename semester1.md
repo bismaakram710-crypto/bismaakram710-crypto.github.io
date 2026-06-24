@@ -5,9 +5,9 @@ permalink: /semester1/
 ---
 
 <style>
-  .sem-title { font-size: 2.5rem; font-weight: 700; margin: 3rem 0 0.5rem 0; }
-  .sem-label { font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; opacity: 0.5; }
-  .post-list { list-style: none; padding: 0; margin-top: 3rem; }
+  .sem-title { font-size: 2.5rem; font-weight: 700; margin: 3rem 0 0.5rem 3rem; }
+  .sem-label { font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; opacity: 0.5; margin-left: 3rem; }
+  .post-list { list-style: none; padding: 0; margin-top: 3rem; padding-left: 3rem; }
   .post-item { padding: 2rem 0; border-top: 1px solid rgba(0,0,0,0.1); }
   .post-item a { font-size: 1.4rem; font-weight: 600; text-decoration: none; color: inherit; }
   .post-item a:hover { opacity: 0.6; }
