@@ -2,10 +2,9 @@
 ---
 layout: post
 title: "The Unique Concept of Relational Algebra"
-date: 2026-06-26
+date: 2026-06-25
 semester: second
 ---
-# My Journey to Understanding Relational Algebra
 
 When I first heard the term *Relational Algebra* in my Database Systems course, it sounded intimidating. The name itself made me think it would involve complex mathematical calculations. Because of this, I was a little nervous before learning the topic. However, once I started exploring its concepts, I realized that Relational Algebra was actually a logical and interesting way of working with data.
 
@@ -17,7 +16,7 @@ What I enjoyed most about Relational Algebra was that it encouraged logical thin
 
 Looking back, Relational Algebra was one of the most unique topics I studied in Database Systems. Although it seemed difficult at first, practice helped me appreciate its importance and strengthened my understanding of how databases work behind the scenes.
 
-#DatabaseSystems
-#MLwithDrBilalAhmad
-#DrBilalAhmad
+#DatabaseSystems 
+#MLwithDrBilalAhmad 
+#DrBilalAhmad 
 #MLProject
