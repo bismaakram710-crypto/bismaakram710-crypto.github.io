@@ -4,7 +4,6 @@ title: "Bitter Reality of Online Classes"
 date: 2026-06-26
 semester: second
 ---
----
 
 
 # Bitter Reality of Online Classes
