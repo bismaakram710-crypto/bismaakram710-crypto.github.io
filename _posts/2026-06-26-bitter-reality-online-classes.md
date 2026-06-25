@@ -5,9 +5,6 @@ date: 2026-06-26
 semester: second
 ---
 
-
-# Bitter Reality of Online Classes
-
 One of the most unexpected experiences during my academic journey was the sudden shift to online classes. Due to the war situation and the resulting shortage of petrol, many students faced difficulties traveling to the university. To ensure that our studies continued without interruption, the university decided to conduct classes online.
 
 When I first heard the news, I had mixed feelings. On one hand, I was relieved because traveling had become challenging and uncertain. On the other hand, I wondered how effective online classes would be. I was used to attending lectures in person, interacting with classmates, and learning directly in the classroom environment.
@@ -18,3 +15,4 @@ Although I missed the university environment and face-to-face interaction with m
 
 Looking back, the transition to online classes was an unusual but memorable experience. It taught me to adapt to changing situations and continue learning regardless of the circumstances.
 
+#DatabaseSystems #MLwithDrBilalAhmad #DrBilalAhmad #MLProject
