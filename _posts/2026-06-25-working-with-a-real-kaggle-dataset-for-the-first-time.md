@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My First Database Project"
+title: "Working with a Real Kaggle Dataset for the First Time"
 date: 2026-06-25
 semester: second
 ---
