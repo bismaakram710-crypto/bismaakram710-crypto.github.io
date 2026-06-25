@@ -5,11 +5,12 @@ permalink: /why-portfolio/
 ---
 
 <style>
-  .wp-title { font-size: 2.5rem; font-weight: 700; margin: 0.5rem 0 0.5rem 0; }
-  .wp-label { font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; opacity: 0.5; }
-  .wp-content { max-width: 680px; line-height: 1.8; margin-top: 2rem; }
+  .wp-label { font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; opacity: 0.5; margin-bottom: 0; }
+  .wp-title { font-size: 2.5rem; font-weight: 700; margin: 0; padding: 0.5rem 0; }
+  .wp-content { max-width: 680px; line-height: 1.8; margin-top: 0; }
   .wp-content h2 { font-size: 1.4rem; font-weight: 700; margin: 2rem 0 0.5rem 0; }
   .wp-content p { margin-bottom: 1.2rem; opacity: 0.8; }
+  .hashtags { margin-top: 2rem; font-size: 0.85rem; opacity: 0.6; }
 </style>
 
 <p class="wp-label">My Purpose</p>
@@ -17,7 +18,7 @@ permalink: /why-portfolio/
 
 <div class="wp-content">
 
-<p>When Dr. Bilal Ahmad, my professor at UET Lahore, Faisalabad Campus, first suggested that we create a portfolio blog website on GitHub, I honestly did not fully understand why. I thought, I am just a first year Computer Engineering student — what do I even have to show? But as I started working on it, I began to realize this was not just another assignment. It was something that would actually matter beyond the classroom.</p>
+<p>When <a href="https://www.linkedin.com/in/drbilalphd/" target="_blank">Dr. Bilal Ahmad</a>, my professor at UET Lahore, Faisalabad Campus, first suggested that we create a portfolio blog website on GitHub, I honestly did not fully understand why. I thought, I am just a first year Computer Engineering student — what do I even have to show? But as I started working on it, I began to realize this was not just another assignment. It was something that would actually matter beyond the classroom.</p>
 
 <h2>Leaving a Digital Footprint</h2>
 
@@ -43,8 +44,10 @@ permalink: /why-portfolio/
 
 <h2>A Small Step With Big Impact</h2>
 
-<p>I will be honest — setting this up was not easy for me at first. There were moments of confusion and frustration. But looking at it now, I am glad I started. Dr. Bilal Ahmad's suggestion was not just about making a website. It was about developing the habit of documenting, reflecting, and sharing — habits that successful engineers and researchers carry throughout their careers.</p>
+<p>I will be honest — setting this up was not easy for me at first. There were moments of confusion and frustration. But looking at it now, I am glad I started. Dr. Bilal Ahmad is not just a professor of Programming Fundamentals and Database Systems — he is an AI, ML and Deep Learning expert who trains models on real world problems. He often encourages us to work with medical datasets because of their precision and accuracy. His approach to teaching goes far beyond textbooks. You can explore his published research on his <a href="https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.</p>
 
 <p>This is just the beginning. Post by post, project by project, semester by semester — I will build something here that truly represents who I am as a student and as a future engineer.</p>
+
+<p class="hashtags">#MLwithDrBilalAhmad #DrBilalAhmad #MLProject</p>
 
 </div>
