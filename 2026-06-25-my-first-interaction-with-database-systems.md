@@ -5,7 +5,7 @@
 layout: post
 title: "My First Interaction with Database Systems"
 date: 2026-06-25
-semester: 2nd 
+semester: second
 ----------------
 
 # My First Interaction with Database Systems
