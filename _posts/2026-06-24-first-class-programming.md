@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First Class of Programming Fundamentals"
-date: 2026-06-24
+date: 2026-06-25
 semester: first
 ---
 
