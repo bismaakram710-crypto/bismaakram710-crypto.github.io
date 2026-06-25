@@ -19,11 +19,9 @@ Almost all of the professors from our department came to visit the exhibition. S
 
 There were moments when I was not completely sure of an answer. But I did my best to respond clearly and honestly. When I did not know something, I said so and explained what I did understand. I tried to stay calm, make eye contact, and present our work with confidence even when I felt uncertain inside.
 
-## The Real Credit Goes to Dr. Bilal Ahmad
-
 When I look back at that exhibition day and think about how we managed to pull it off, I know that the real credit belongs to our instructor. Dr. Bilal Ahmad made us capable of doing this in just one semester. He is an expert in Artificial Intelligence, Machine Learning, and Deep Learning, and he brings that expertise into every class he teaches. He did not just give us information — he built our understanding from the ground up, pushed us to think independently, and prepared us for exactly this kind of moment.
 
-Without his guidance, patience, and teaching, none of us would have been standing in that exhibition hall presenting ML models in our very first semester. That is not something every student gets to experience, and I am deeply grateful for it. If you want to learn more about Dr. Bilal Ahmad and his work, you can visit his [Facebook page](https://www.facebook.com/Dr.BilalAhm).
+Without his guidance, patience, and teaching, none of us would have been standing in that exhibition hall presenting ML models in our very first semester. That is not something every student gets to experience, and I am deeply grateful for it. If you want to learn more about Dr. Bilal Ahmad and his work, you can visit his Facebook.profile
 
 ## What That Day Meant to Me
 
