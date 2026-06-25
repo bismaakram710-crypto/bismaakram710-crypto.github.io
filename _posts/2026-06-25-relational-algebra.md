@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Journey to Understanding Relational Algebra"
-date: 2026-06-26
+date: 2026-06-25
 semester: second
 ---
 
