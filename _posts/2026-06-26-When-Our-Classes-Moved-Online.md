@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bitter Reality of Online Classes"
+title: "When Our Classes Moved Online"
 date: 2026-06-26
 semester: second
 ---
