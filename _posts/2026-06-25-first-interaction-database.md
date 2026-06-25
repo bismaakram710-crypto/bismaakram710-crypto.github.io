@@ -5,8 +5,6 @@ date: 2026-06-25
 semester: second
 ---
 
-# My First Interaction with Database Systems
-
 After completing my first semester, I entered my first Database Systems lecture with curiosity and excitement. Unlike Programming Fundamentals, which initially felt challenging, Database Systems seemed easier to understand because it focused on organizing and managing information that we use in everyday life.
 
 Before taking this course, I thought a database was simply a place where data was stored. During the lecture, I learned that databases are much more than storage systems. They help organize, manage, retrieve, and update information efficiently. I was particularly interested in understanding the difference between data and information and how databases are used in real-world applications such as hospitals, universities, banking systems, and social media platforms.
