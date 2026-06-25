@@ -5,7 +5,7 @@ permalink: /why-portfolio/
 ---
 
 <style>
-  .wp-title { font-size: 2.5rem; font-weight: 700; margin: 3rem 0 0.5rem 0; }
+  .wp-title { font-size: 2.5rem; font-weight: 700; margin: 0.5rem 0 0.5rem 0; }
   .wp-label { font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; opacity: 0.5; }
   .wp-content { max-width: 680px; line-height: 1.8; margin-top: 2rem; }
   .wp-content h2 { font-size: 1.4rem; font-weight: 700; margin: 2rem 0 0.5rem 0; }
