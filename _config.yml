@@ -13,8 +13,8 @@ show_minimal: false
 #show_frame: "/assets/images/background.svg"
 # Menu
 navigation:
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+  #- {file: "archive.html", sidebaricon: home}
+ # - {file: "README.md", sidebaricon: address-card}
 external:
 #  - {title: Mail, icon: envelope, url: "mailto:bismaakram710@gmail.com"}
 #  - {title: Github, icon: github, url: "https://github.com/bismaakram710-crypto"}
