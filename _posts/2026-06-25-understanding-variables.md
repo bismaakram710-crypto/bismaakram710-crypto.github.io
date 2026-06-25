@@ -2,7 +2,7 @@ Layout
 post
 
 Title
-How Variables hit my Memory
+Understanding variable
 
 Date
 2026-06-25
