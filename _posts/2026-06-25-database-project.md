@@ -2,7 +2,7 @@
 layout: post
 title: "My First Database Project"
 date: 2026-06-25
-semester: second
+semester: 2nd
 ---
 
 There are certain experiences during your academic journey that stay with you long after the semester ends. For me, working on my first database project was exactly that kind of experience. It was the moment when everything I had been learning throughout the semester — normalization, SQL, ER diagrams, relational algebra — came together in one real and meaningful task. And the result was something I am genuinely proud of.
